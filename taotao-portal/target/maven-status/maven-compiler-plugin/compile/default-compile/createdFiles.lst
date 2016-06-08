@@ -1,0 +1,14 @@
+com\taotao\portal\pojo\PortalItem.class
+com\taotao\portal\service\SearchService.class
+com\taotao\portal\controller\SearchController.class
+com\taotao\portal\service\AdNodeService.class
+com\taotao\portal\service\impl\SearchServiceImpl.class
+com\taotao\search\dubbo\SearchItemService.class
+com\taotao\portal\service\impl\ItemServiceImpl.class
+com\taotao\rest\dubbo\RestItemService.class
+com\taotao\portal\service\impl\AdNodeServiceImpl.class
+com\taotao\portal\controller\ItemController.class
+com\taotao\portal\pojo\AdNode.class
+com\taotao\portal\service\ItemService.class
+com\taotao\rest\dubbo\RestContentService.class
+com\taotao\portal\controller\IndexController.class

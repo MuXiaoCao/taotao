@@ -1,0 +1,11 @@
+com\taotao\controller\ItemCatController.class
+com\taotao\controller\ItemController.class
+com\taotao\controller\PictureController.class
+com\taotao\search\dubbo\SearchItemService.class
+com\taotao\controller\ItemParamController.class
+com\taotao\rest\dubbo\RestItemCategoryService.class
+com\taotao\controller\PageController.class
+com\taotao\rest\dubbo\RestItemService.class
+com\taotao\controller\ContentController.class
+com\taotao\rest\dubbo\RestContentService.class
+com\taotao\controller\ContentCateporyController.class
